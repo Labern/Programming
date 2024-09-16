@@ -22,7 +22,15 @@ Trust me when I say being confident in your ability to learn, while at the same 
 
 ## The two aspects
 
-I said that I would split programming into two sections. Understanding this distinction allows you to very quickly find out what it is about programming you like, dislike, find easy, or difficult. In my opinion, learning the building blocks of a programming language is very easy. The far more difficult thing is learning to think like a programmer. The technical term for this, which you will recognise, is <code>**algorithmic thinking**</code>: that is, thinking in terms of algorithms. An algorithm is simply a set of instructions to be followed. Another way of stating this is that it is <code>**programmatic thinking**</code>. Whichever term you use, the idea is simple: as opposed to the way we think in most contexts, such as with metaphor, algorithmic thinking relies on a very strict way of thinking. Understanding this is crucial, because <code>thinking like a programmer is much harder than actually programming</code>.
+I said that I would split programming into two elements. Here they are again, so you can familiarise yourself with them:
+
+### Programming is the ability to
+1. Think like a programmer, and
+2. The ability to use programming languages.
+
+Understanding this distinction allows you to very quickly find out what it is about programming you like, dislike, find easy, or difficult. In my opinion, learning the building blocks of a programming language is very easy. 
+
+The far more difficult thing is learning to think like a programmer. The technical term for this is <code>**algorithmic thinking**</code>: that is, thinking in terms of algorithms. An algorithm is simply a set of instructions to be followed. Another way of stating this is that it is <code>**programmatic thinking**</code>. Whichever term you use, the idea is simple: as opposed to the way we think in most contexts, such as with metaphor, algorithmic thinking relies on a very strict way of thinking. Understanding this is crucial, because <code>thinking like a programmer is much harder than actually programming</code>.
 
 Let me say that again: actually programming is easy. Ridiculously easy. You type some things, save a file, then type some more things (or click a button). That is easier than writing an essay in your native tongue. The really difficult thing, the thing that people actually find confusing, is finding a way to solve a problem using a programming language.
 
@@ -30,9 +38,33 @@ This means you can now think about programming differently. You learn to program
 
 Much of the problem with learning to program, from my experience, is that people do not distinguish between these two things. The beauty of knowing this is that you don't need to think "programming isn't for me": you can identify what aspect of programming you currently find difficult (either solving a problem or a specific detail of the language you are using), and then focus on solving that. You don't need to do it all at once.
 
-In my opinion, far too many introductions to programming start talking about the various elements of a programming language ***without explaining what they are for*** or why. That is why understanding that programming languages are simply tools for expressing programmatic thinking is an absolutely essential pre-requisite to learning to program. 
+In my opinion, far too many introductions to programming start talking about the various elements of a programming language ***without explaining what they are for*** or why. That is why understanding that programming languages are simply tools for expressing programmatic thinking is an absolutely essential pre-requisite to learning to program.
 
 Once you know this, you can and will fall in love with programming — specifically, the things you can do.
+
+## Where to start 
+
+Now that we have this distinction — between thought and ability — we can approach the subject of learning to program in one of three ways. We can either 1. learn about how programs work first, 2. learn about the parts of a programming language, or 3. learn both at the same time. (The fourth logical option, to do neither, is not allowed. This is very much an <code>&&</code> situation — a reference you will understand by the end of this essay.)
+
+So which way should we go?
+
+The ideal option, I think, is to actually start learning the building blocks of a programming language in the knowledge that **there is a reason why they exist**. Then, once you actually know some specific pieces of a programming language, you will then learn how to use them to solve problems. In short, it's a little of both, but we will focus as much as possible on one aspect of programming as possible. The idea is that as you learn the parts of a programming language, instead of asking "what is the point of this?", you will be thinking "I wonder how this is going to be used..." Another distinction, but an important one. 
+
+With that being said, let's move on to the juice.
+
+# 1. Parts of a programming language 
+
+Every programming language has something in common with every other programming language. This is because, like human languages, they have relationships. Some borrow (or inherit) ideas from other languages, while others rebel against things in others. At their core, however, they all do the same thing. It is this set of core things that programming languages do that will open the world of programming up to you.
+
+Once you know the parts of a programming language, you will be able to learn any — and I mean any — programming language very quickly. And then you can actually decide which language you want to use based on how appropriate you think its approach to solving problems is. 
+
+Now is when we will start to introduce terminology, but I hope that I have made it clear that all of this terminology is in service of solving problems. That is the goal: not to memorise, but to solve problems.
+
+## 1.1 Programming languages (and people) love to talk
+
+I don't mean "talk to the computer". I mean talk as in words. Specifically words and the individual characters that make up the words. 
+
+This may surprise you, but you just learned one of the 5 most important parts of a programming language: programming languages have to deal with humans, and humans love to talk (and write). Dealing with words is the starting point in learning to programming.
 
 ## Footnotes 
 
